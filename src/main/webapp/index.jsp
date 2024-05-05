@@ -1,24 +1,17 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <title>Skills Development</title>
+  <title>Save Trees</title>
+  <style>
+    body {
+      background-image: url('forest.jpg'); /* Background image of forest */
+      background-size: cover; /* Cover the entire background */
+    }
+  </style>
 </head>
-<body  bgcolor="orange"></body>
-  <h1><marquee bgcolor=blue> 
-<font color=red>
-ONLINE TRAINING  </font>
-</marquee></h1>
-  <h3>Choose Skill(s):</h3>
-  <form method="get">
-    <input type="checkbox" name="skill" value="Code Developing">Code Developing
-    <input type="checkbox" name="skill" value="System Administraion">System Administraion
-    <input type="checkbox" name="skill" value="Automation"  /t  >Automation 
-    <marquee width=300 height=25 direction=right behavior=alternate scrollamount=5>
-<font color=blue face="Monotype Corsiva" size=5> Trainer is </font>
- <input type="submit" value= "D G Prasad" </marquee>
-  </form>
- 
+<body>
+  <h1><marquee bgcolor="green"> 
+    <font color="red">SAVE TREES</font> <!-- Main heading displaying "SAVE TREES" in red text -->
+  </marquee></h1>
 </body>
 </html>
-
-
-
